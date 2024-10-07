@@ -1,0 +1,6 @@
+/.gradle
+/.idea
+/.kotlin
+/local.properties
+# Project exclude paths
+/app/build/

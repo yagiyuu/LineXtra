@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LineXtra</string>
+    <string name="xp_desc">Xposed Module for LINE</string>
+</resources>
