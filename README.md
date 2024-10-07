@@ -4,6 +4,7 @@
 [![Download](https://img.shields.io/github/downloads/yagiyuu/LineXtra/total)](https://github.com/yagiyuu/LineXtra/releases/latest)
 
 An Xposed module that supports LSPatch and is compatible with all versions
+
 LSPatchをサポートし、すべてのバージョンに対応するXposedモジュール
 
 ## Features / 機能
